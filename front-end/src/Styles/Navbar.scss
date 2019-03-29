@@ -1,0 +1,14 @@
+.logo--container{
+    display: flex;
+    justify-content: center;
+    background:linear-gradient(270deg, rgba(219,228,238,1) 25%, rgba(125,190,190,1) 72%);
+    img{
+       width: 50%;
+       height: 40%;
+
+       @media(min-width: 768px){
+           width: 8rem;
+           height: 8rem;
+       }
+    }
+}

@@ -1,0 +1,123 @@
+
+[
+    {
+        "id" : "1",
+        "name" : "Knoppers",
+        "description" : "Knoppers is a brand of wafer sandwich filled with nougat and milk creme, produced by August Storck KG.A wafer normally weighs 25 grams and it typically has a light blue white wrapping around it. ",
+        "image":"https://www.safka.co.nz/media/com_hikashop/upload/knoppers.jpg",
+        "country":"Germany",
+        "price":"$25.66 per case",
+        "flavour":"Hazelnut",
+        "comments": [
+    
+        ]
+    },
+    {
+        "id" : "2",
+        "name" : "Millefoglie D'italia Classiche",
+        "description" : "Millefoglies are puffy pastries filled with cream and coated with sugar lining. Made by Vincenzi, the most popular pastry brand in Italy, Millefoglies have a crispy texture with a light, sweet, buttery taste. ",
+        "image":"https://i2.wp.com/eat-aly-amo.com/wp-content/uploads/2017/08/0022942.jpg?fit=800%2C534 ",
+        "country":"Italy",
+        "price":"$5.99",
+        "flavour":"N/A",
+        "comments": [
+    
+        ]
+    },
+    {
+        "id" : "3",
+        "name" : "Fourre Choco Biscuits By Hellema",
+        "description" : "Fourre Choco Biscuits are large, round chocolate-flavored biscuits with a cocoa cream filling. These biscuits are made with all natural ingredients and are manufactured by Hellema, a European snack company that has been baking treats for over 150 years.",
+        "image":"https://assets.jayagrocer.com/images/product/done/004481-1-1.jpg",
+        "country":"Netherlands",
+        "price":"$3.99",
+        "flavour":"Chocolate",
+        "comments": [
+    
+        ]
+    },
+    {
+        "id" : "4",
+        "name" : "Isleri Eurocrem Biscuit",
+        "description" : "The Isleri Eurocrem Biscuit is a chocolate covered biscuit with hazelnut creme. The cream is well balanced in sweetness and the chocolate has nice cocoa smell and after taste.",
+        "image":"https://www.armenianfunguscake.com/wp-content/uploads/2012/08/IMG_0047.jpg",
+        "country":"Serbia",
+        "price":"$1.41",
+        "flavour":"Chocolate",
+        "comments": [
+    
+        ]
+    },
+      {
+        "id" : "5",
+        "name" : "Ki-Ki Plus",
+        "description" : "Ki-Ki Plus are fruit-flavored, square shaped toffee candies that are soft and chewy in texture. These candies are called Ki-Ki plus because they are enriched with vitamin C.",
+        "image":"http://www.minosimports.com/thumbnail.asp?file=assets/images/kikituttifrutti.png&maxx=300&maxy=0",
+        "country":"Croatia",
+        "price":"$1.14",
+        "flavour":"Mixed",
+        "comments": [
+    
+        ]
+    },
+      {
+        "id" : "6",
+        "name" : "Biarritz By Delacre",
+        "description" : "Biarritz cookies are vanilla cookies with dark chocolate and coconut sprinkles. These cookies are made in Belgium and are dipped in Belgium chocolate.",
+        "image":"https://my-french-grocery.com/wp-content/uploads/2018/04/DELACRE-BIARRITZ.jpg",
+        "country":"Belgium",
+        "price":"$16.55",
+        "flavour":"Vanilla",
+        "comments": [
+    
+        ]
+    },  
+    {
+        "id" : "7",
+        "name" : "Pomsticks Sour Cream By Lorenz",
+        "description" : "Pomsticks Sour Cream are sour cream flavored potato sticks. Made with real potatoes and baked in sunflower oil, Pomsticks Source Cream are crunchy in texture and well balanced in taste.",
+        "image":"https://cdn11.bigcommerce.com/s-69ec9/images/stencil/2048x2048/products/1111/1294/Lorenz_Sour_Cream_Pomsticks__91506.1501770495.jpg?c=2",
+        "country":"Germany",
+        "price":"$2.00",
+        "flavour":"Sour Cream",
+        "comments": [
+    
+        ]
+    },  
+    {
+        "id" : "8",
+        "name" : "Bananko",
+        "description" : "Bananko is a banana-shaped, chocolate covered candy bar with a banana-flavoured foam center.",
+        "image":"http://croproducts.com/wp-content/uploads/2013/04/Bananko-Original-Chocolate-30-gram.jpg",
+        "country":"Croatia",
+        "price":"$0.33",
+        "flavour":"Chocolate",
+        "comments": [
+    
+        ]
+    },  
+    {
+        "id" : "9",
+        "name" : "Bassetts Jelly Babies Bag",
+        "description" : "Jelly Babies are a type of soft sugar jelly sweet, shaped as plump babies in a variety of colours. They were first manufactured in Lancashire, England in the 19th century.",
+        "image":"https://images-na.ssl-images-amazon.com/images/I/61hoTzqpirL._SX385_.jpg",
+        "country":"United Kingdom",
+        "price":"$3.95",
+        "flavour":"Mixed",
+        "comments": [
+    
+        ]
+    },  
+    {
+        "id" : "10",
+        "name" : "Kidy Coconut Dessert",
+        "description" : "Kidy Coconut Deserts are chocolate bars with a chewy, coconut-flavored filling in the center. These chocolate bars are very sweet with a distinct coconut taste.",
+        "image":"https://cdn.shopify.com/s/files/1/1748/4961/products/serbian-kidy-coconut-dessert_1024x.jpg?v=1533212486",
+        "country":"Serbia",
+        "price":"$1.00",
+        "flavour":"Coconut",
+        "comments": [
+    
+        ]
+    }
+]   

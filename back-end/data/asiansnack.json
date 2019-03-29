@@ -1,0 +1,155 @@
+
+[
+    {
+        "id" : "1",
+        "name" : "Pocky",
+        "description" : "Pocky is a Japanese snack food produced by Ezaki Glico. Pocky was first sold in 1966, and were invented by Yoshiaki Koma. They consist of chocolate-coated biscuit sticks. It was named after the Japanese onomatopoetic word pokkin",
+        "image":"https://target.scene7.com/is/image/Target/GUEST_e3c1d54b-ffc0-48a2-8e9d-fea40084cf08?wid=488&hei=488&fmt=pjpeg",
+        "country":"Japan",
+        "price":"$2.00",
+        "flavour":"Chocolate",
+        "comments": [
+            {
+                "name": "Micheal Lyons",
+                "comment": "If you have never had Pocky, you need to purchase it now. It's like the chocolate of the heavens put on a delectably crunchy biscuit stick. Its a fantastic snack for movie night, and also adorable. Eat it, be happy. That is Pocky. Pocky is happiness in food form.",
+                "id": "1ab6d9f6-da38-456e-9b09-ab0acd9ce818",
+            
+                "date": 1545162149000
+            },
+            {
+                "name": "Gary Wong",
+                "comment": "I love pocky! I finally tried it after loads of people had told me how good it was. They were absolutely right, too. It is really, really yummy. The little pocky sticks are thin, crispy, and the chocolate is smooth and delicious. They are very tasty, and a great snack at any time of the day(hehe!). I agree with someone else who said they would live off of pocky if they could. Who wouldn't? The stuff is delicious!",
+                "id": "cc6f173d-9e9d-4501-918d-bc11f15a8e14",
+            
+                "date": 1544595784046
+            },
+            {
+                "name": "Theodore Duncan",
+                "comment": "It's reallyyyy good lol. I swear I aate the entire box as I got it, gonna soooo buy a new one!",
+                "id": "993f950f-df99-48e7-bd1e-d95003cc98f1",
+            
+                "date": 1542262984046
+            }
+        ]
+    },
+    {
+        "id" : "2",
+        "name" : "Yan Yan",
+        "description" : "Yan Yan is a Japanese snack food made by Meiji Seika. It comes in a package with two compartments. One side has biscuit sticks, the other side has chocolate, strawberry, vanilla, or yogurt flavored frosting used for dipping. The sticks themselves may also be flavored.",
+        "image":"https://www.99ranch.com/ul/products/1430/1645710-1_13800x800.png",
+        "country":"Japan",
+        "price":"$1.00",
+        "flavour":"Strawberry",
+        "comments": [
+            {
+                "name": "Echo F",
+                "comment": "These were my favourite snack as a kid because they contained my two favourite flavour yan yan creams. It is a lot of fun dipping the breadsticks into the cream, as well as reading/looking at the messages or picture on each bread stick. However, I always ran out of cream before finishing the breadsticks. I wish the containers for cream were deeper. The packaging is deceiving and makes you think that the cream sections of the cup go all the way down!",
+                "id": "1ab6d9f6-da38-456e-9b09-ab0acd9ce818",
+            
+                "date": 1545162149000
+            }   
+        ]
+    },
+    {
+        "id" : "3",
+        "name" : "Haw flakes",
+        "description" : "Haw flakes are Chinese sweets made from the fruit of the Chinese hawthorn. It is a sweet and tangy snack usually served to guests along with tea or as a treat for children. Some Chinese people take the flakes with bitter Chinese herbal medicine.",
+        "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Hawflakes.jpg/375px-Hawflakes.jpg",
+        "country":"China",
+        "price":"50¢",
+        "flavour":"N/A",
+        "comments": [
+            {
+                "name": "Kara",
+                "comment": "Tasted a bit like the plastic it was wrapped it, came a bit melted since I ordered it in the summer heat but after a few hours in the fridge they were fine!",
+                "id": "1ab6d9f6-da38-456e-9b09-ab0acd9ce818",
+            
+                "date": 1545162149000
+            }
+        ]
+    },
+    {
+        "id" : "4",
+        "name" : "Prawn cracker",
+        "description" : "Prawn crackers, also known as prawn chips and shrimp puffs are deep fried crackers made from starch and prawn that serve as flavouring. Prawn crackers are a common snack food throughout Asia, but most closely associated with Indonesia and Malaysia.",
+        "image":"https://thewoksoflife.com/wp-content/uploads/2016/01/prawn-crackers-4.jpg",
+        "country":"Indonesia",
+        "price":"$1.50",
+        "flavour":"N/A",
+        "comments": [
+           
+        ]
+    },
+      {
+        "id" : "5",
+        "name" : "Dried shredded squid",
+        "description" : "Dried shredded squid is a dried, shredded, seasoned, seafood product, made from squid or cuttlefish, commonly found in coastal Asian countries, Russia, and Hawaii.",
+        "image":"https://images-na.ssl-images-amazon.com/images/I/41MgsSTfqBL.jpg",
+        "country":"Hong Kong",
+        "price":"$4.00",
+        "flavour":"N/A",
+        "comments": [
+           
+        ]
+    },
+      {
+        "id" : "6",
+        "name" : "Yakult",
+        "description" : "Yakult is a probiotic milk beverage fermented with the bacteria strain Lactobacillus paracasei Shirota, first isolated from the human intestine by Japanese scientist Minoru Shirota in the 1930s and sold by Yakult Honsha.",
+        "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Yakult_drink.jpg/330px-Yakult_drink.jpg",
+        "country":"Japan",
+        "price":"$2.00 for pack of 5",
+        "flavour":"N/A",
+        "comments": [
+          
+        ]
+    },  
+    {
+        "id" : "7",
+        "name" : "Aloo Bhujia",
+        "description" : "Aloo Bhujia is a popular crispy snack prepared by using moth beans and besan (gram flour) and spices, originating from, Bikaner, a town in the western state of Rajasthan in India. ",
+        "image":"https://5.imimg.com/data5/CJ/RF/MY-35438113/haldiram-aloo-bhujia-500x500.jpg",
+        "country":"India",
+        "price":"$8.00",
+        "flavour":"N/A",
+        "comments": [
+            
+        ]
+    },  
+    {
+        "id" : "8",
+        "name" : "White Rabbit Candy",
+        "description" : "White Rabbit Creamy Candy is white, with a soft, chewy texture, and is formed into cylinders approximately 3 cm long and 1 cm in diameter, similar to contemporary western nougat or taffy. Each candy is wrapped in a printed waxed paper wrapper, but within this, the sticky candies are again wrapped in a thin edible paper-like wrapping made from sticky rice.",
+        "image":"https://upload.wikimedia.org/wikipedia/commons/c/c7/Tin_of_White_Rabbit_Sweets.jpg",
+        "country":"China",
+        "price":"$3.00 per bag",
+        "flavour":"N/A",
+        "comments": [
+            
+        ]
+    }, 
+     {
+        "id" : "9",
+        "name" : "Hi-Chew",
+        "description" : "Hi-Chew is a Japanese fruit chew sold by Morinaga & Company. This soft chewy candy was first released in 1975. It was re-released in its current shape in February 1996.The origins of Hi-Chew began when Taichiro Morinaga sought to create an edible kind of chewing gum that could be swallowed because of the Japanese cultural taboo against taking food out of one's mouth. ",
+        "image":"https://images-na.ssl-images-amazon.com/images/I/914VppuX37L._SL1500_.jpg",
+        "country":"Japan",
+        "price":"$5.00 per bag",
+        "flavour":"Mixed",
+        "comments": [
+           
+        ]
+    },  
+    {
+        "id" : "10",
+        "name" : "Hello Panda",
+        "description" : "Hello Panda is a brand of Japanese biscuit, manufactured by Meiji Seika. Each biscuit consists of a small hollow shortbread layer, filled with either vanilla, strawberry, double chocolate, matcha green tea or chocolate filling. ",
+        "image":"https://target.scene7.com/is/image/Target/GUEST_083453b0-bd17-48bb-a9b6-02d4546afa66?wid=488&hei=488&fmt=pjpeg",
+        "country":"Japan",
+        "price":"$1.50",
+        "flavour":"Chocolate",
+        "comments": [
+            
+        ]
+    }
+]

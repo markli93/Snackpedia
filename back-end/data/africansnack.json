@@ -1,0 +1,141 @@
+
+[
+    {
+        "id" : "1",
+        "name" : "Ouma Rusks By Nola",
+        "description" : "Ouma Rusks are a type of hard, dry biscuit from South Africa. It was introduced in 1939 and has since become a national treat in South Africa.",
+        "image":"https://shop.coles.com.au/wcsstore/Coles-CAS/images/6/9/2/6923940.jpg",
+        "country":"South Africa",
+        "price":"$9.00",
+        "flavour":"N/A",
+        "comments": [
+            {
+                "name": "Micheal Lyons",
+                "comment": "If you have never had Pocky, you need to purchase it now. It's like the chocolate of the heavens put on a delectably crunchy biscuit stick. Its a fantastic snack for movie night, and also adorable. Eat it, be happy. That is Pocky. Pocky is happiness in food form.",
+                "id": "1ab6d9f6-da38-456e-9b09-ab0acd9ce818",
+                "date": 1545162149000
+            },
+            {
+                "name": "Gary Wong",
+                "comment": "I love pocky! I finally tried it after loads of people had told me how good it was. They were absolutely right, too. It is really, really yummy. The little pocky sticks are thin, crispy, and the chocolate is smooth and delicious. They are very tasty, and a great snack at any time of the day(hehe!). I agree with someone else who said they would live off of pocky if they could. Who wouldn't? The stuff is delicious!",
+                "id": "cc6f173d-9e9d-4501-918d-bc11f15a8e14",
+                "date": 1544595784046
+            },
+            {
+                "name": "Theodore Duncan",
+                "comment": "It's reallyyyy good lol. I swear I aate the entire box as I got it, gonna soooo buy a new one!",
+                "id": "993f950f-df99-48e7-bd1e-d95003cc98f1",
+                "date": 1542262984046
+            }
+        ]
+    },
+    {
+        "id" : "2",
+        "name" : "Tom Tom By Mondelez International",
+        "description" : "TomToms, introduced in 1970, are the first Nigeria candy ever introduced. With a minty, menthol flavor, TomToms are the most popular candy in Nigeria.",
+        "image":"https://cdn.shopify.com/s/files/1/1748/4961/products/nigerian-tomtom-menthol-candy.jpeg?v=1512171683",
+        "country":"Nigeria",
+        "price":"$4.99",
+        "flavour":"N/A",
+        "comments": [
+    
+        ]
+    },
+    {
+        "id" : "3",
+        "name" : "Peri Peri Waves By Fritos",
+        "description" : "Peri Peri Waves are a type of corn chip made by Fritos and only available in South Africa. Crispy, with rippled waves/ridges, its unique texture allegedly adds to its flavor. It’s flavor is mildly hot.",
+        "image":"https://d3a1v57rabk2hm.cloudfront.net/treats/bold-copy-50/images/Africa_-_PeriPeriWaves.jpg?ts=1507794055&host=www.trytreats.com",
+        "country":"South Africa",
+        "price":"N/A",
+        "flavour":"N/A",
+        "comments": [
+    
+        ]
+
+    },
+    {
+        "id" : "4",
+        "name" : "Flings by Willards",
+        "description" : "Flings are maize (corn) based snack that is popular in South Africa. These treats are lightly flavored and come baked, not fried.",
+        "image":"https://images-na.ssl-images-amazon.com/images/I/51Yz5-2Ik9L.jpg",
+        "country":"South Africa",
+        "price":"$9.04",
+        "flavour":"N/A",
+        "comments": [
+    
+        ]
+    },
+      {
+        "id" : "5",
+        "name" : "Nik Naks By Simba",
+        "description" : "Nik Naks are made from maize and real cheese. It is crunchy in texture and spicy in taste",
+        "image":"https://s3.amazonaws.com/cratejoy_vendor_images/treats/bold/images/Africa_-_Nik_Naks-2.jpg",
+        "country":"South Africa",
+        "price":"N/A",
+        "flavour":"Cheese",
+        "comments": [
+    
+        ]
+    },
+      {
+        "id" : "6",
+        "name" : "Chappies By Cadbury",
+        "description" : "Chappies are a South African bubble gum that was first introduced in the late 1940s. Chappies grew to be so popular that the name Chappies allegedly became synonymous with the word 'Gum'.",
+        "image":"https://d3a1v57rabk2hm.cloudfront.net/treats/bold-copy-50/images/Africa_-_Chappies.jpg?ts=1507794054&host=www.trytreats.com",
+        "country":"South Africa",
+        "price":"1¢ per piece",
+        "flavour":"N/A",
+        "comments": [
+    
+        ]
+    },  
+    {
+        "id" : "7",
+        "name" : "Fizzers By Beacon",
+        "description" : "Fizzers are a chewy, fruity and fizzy candy.When chilled or at room temperature, the candy has a hard and brittle texture which 'fizzes'. When warm, the candy becomes softer and easier to chew on. It also loses some of its fizz. ",
+        "image":"https://cdn.shopify.com/s/files/1/0909/1974/products/W076_Beacon_Fizzers_large.jpg?v=1438036290",
+        "country":"South Africa",
+        "price":"$19.99 per box",
+        "flavour":"Assorted",
+        "comments": [
+    
+        ]
+    },  
+    {
+        "id" : "8",
+        "name" : "Nestle Peppermint Crisp",
+        "description" : "Peppermint Crisp is a milk chocolate bar filled with a multitude of thin cylinders of mint-flavoured 'cracknel' (which is a brittle crystalline/sugar concoction extruded in fine hollow tubes). Invented in South Africa by Wilson-Rowntree, it is now produced by Nestlé",
+        "image":"http://www.chocablog.com/wp-content/uploads/2008/06/nestle-peppermint-crisp-1.jpg?x13928",
+        "country":"South Africa",
+        "price":"$10.31",
+        "flavour":"Mint",
+        "comments": [
+    
+        ]
+    },  
+    {
+        "id" : "9",
+        "name" : "Massam's Honey Almond Nougat",
+        "description" : "Deluxe Honey and Almond flavoured nougat wrapped in edible rice paper",
+        "image":"https://munchpak.com/media/catalog/product/cache/image/700x700/e9c3970ab036de70892d86c6d221abfe/h/o/honey-almond-nougat.jpg",
+        "country":"South Africa",
+        "price":"$2.00",
+        "flavour":"Honey & Almond",
+        "comments": [
+    
+        ]
+    },  
+    {
+        "id" : "10",
+        "name" : "Blue Label Marie Biscuits By Bakers",
+        "description" : "Created at the onset of the British biscuit industry in the 1850s, it was named after Marie Romanov (a princess of Russia). The biscuit has a border around its edge known as a “key” pattern, which is a common pattern in Russia and seen in the designs many official buildings in Russia.",
+        "image":"https://cdn.24.co.za/files/Cms/General/d/8344/e5ae70e79bf0481bab5ba3bac4febe19.png",
+        "country":"South Africa",
+        "price":"$6.00",
+        "flavour":"N/A",
+        "comments": [
+    
+        ]
+    }
+]

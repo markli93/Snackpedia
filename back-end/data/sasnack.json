@@ -1,0 +1,123 @@
+
+[
+    {
+        "id" : "1",
+        "name" : "Passatempo",
+        "description" : "Passatempo is a vanilla flavored sandwich cookies with chocolate filling and drawings on them.",
+        "image":"https://www.deliveryextra.com.br/img/uploads/1/436/534436.jpg?type=product",
+        "country":"Brazil",
+        "price":"$7.69",
+        "flavour":"Vanilla",
+        "comments": [
+    
+        ]
+    },
+    {
+        "id" : "2",
+        "name" : "Bis",
+        "description" : "Bis are wafer cookies covered in milk, white, or dark chocolate.",
+        "image":"https://images-na.ssl-images-amazon.com/images/I/81Gr5HBazBL._SL1500_.jpg",
+        "country":"Brazil",
+        "price":"$9.58",
+        "flavour":"N/A",
+        "comments": [
+    
+        ]
+    },
+    {
+        "id" : "3",
+        "name" : "Festy Chocolate Cookies",
+        "description" : "These scrumptious treats are made of delicious vanilla cream filling that is sandwiched between perfectly crunchy chocolate cookies.",
+        "image":"https://munchpak.com/media/catalog/product/cache/image/700x700/e9c3970ab036de70892d86c6d221abfe/f/e/festy-chocolate.jpg",
+        "country":"Colombia",
+        "price":"$3.50",
+        "flavour":"Chocolate",
+        "comments": [
+    
+        ]
+    },
+    {
+        "id" : "4",
+        "name" : "Nestle Cocosette",
+        "description" : "Cocosette is the perfect combination of a crunchy cookie wafer filled with delicious coconut cream!",
+        "image":"https://images-na.ssl-images-amazon.com/images/I/61J7n7Dq8aL._SX355_.jpg",
+        "country":"Colombia",
+        "price":"$35 per box",
+        "flavour":"Chocolate",
+        "comments": [
+    
+        ]
+    },
+      {
+        "id" : "5",
+        "name" : "Oblita Cubanito Wafer Chocolate",
+        "description" : "Thin tiny wafer cookie roll filled with chocolate cream",
+        "image":"https://munchpak.com/media/catalog/product/cache/image/700x700/e9c3970ab036de70892d86c6d221abfe/o/b/oblita_cubanito_wafer_chocolate.jpg",
+        "country":"Argentina",
+        "price":"$1.00",
+        "flavour":"Chocolate",
+        "comments": [
+    
+        ]
+    },
+      {
+        "id" : "6",
+        "name" : "MANTECOL Clasico",
+        "description" : " Mantecol a typical dessert in Argentina, a sort of semi-soft nougat made from peanut butter. It was originally created and marketed in the 1940s by the confectionery company Georgalos. ",
+        "image":"https://images-na.ssl-images-amazon.com/images/I/61cL-H%2BfSvL._SL1024_.jpg",
+        "country":"Argentina",
+        "price":"$8.99",
+        "flavour":"Mint",
+        "comments": [
+    
+        ]
+    },  
+    {
+        "id" : "7",
+        "name" : "Chocolate Cri-Cri",
+        "description" : "Cri-Cri is the combination of chocolate with milk and crunchy puffed rice.",
+        "image":"https://images-na.ssl-images-amazon.com/images/I/41gZdCnRmgL.jpg",
+        "country":"Venezuela",
+        "price":"$7.40",
+        "flavour":"Chocolate",
+        "comments": [
+    
+        ]
+    },  
+    {
+        "id" : "8",
+        "name" : "Bauducco Chocolate Wafers",
+        "description" : "Bauducco Wafers have 3 delicious creamy chocolate layers sandwiched between wholesome and flaky wafers.",
+        "image":"https://www.dollartree.com/ccstore/v1/images/?source=/file/v2806528219082126825/products/10326.jpg&height=475&width=475",
+        "country":"Brazil",
+        "price":"$1.00",
+        "flavour":"Chocolate",
+        "comments": [
+    
+        ]
+    },  
+    {
+        "id" : "9",
+        "name" : "Field Galleta Con Chocolate Dona Pepa",
+        "description" : "Delicious and very tasty chocolate cover Cookie and Sprinkles. Made up of 2 oblong shaped cookies. Each coated with a thin layer of chocolate milk, stacked on top of each other.",
+        "image":"https://images-na.ssl-images-amazon.com/images/I/91Z5hAugafL._SY550_.jpg",
+        "country":"Peru",
+        "price":"$27.50 per pack",
+        "flavour":"Chocolate",
+        "comments": [
+    
+        ]
+    },  
+    {
+        "id" : "10",
+        "name" : "Fabitos Pipoca Vovozinha Caramelizada Gourmet Popcorn",
+        "description" : "Salty, sweet, and crunchy popcorn with just the smallest hint of chocolate flavor mixed in with the caramel flavor!",
+        "image":"https://munchpak.com/media/catalog/product/cache/image/700x700/e9c3970ab036de70892d86c6d221abfe/f/a/fabitos-caramel.jpg",
+        "country":"Brazil",
+        "price":"$3.00",
+        "flavour":"N/A",
+        "comments": [
+    
+        ]
+    }
+]

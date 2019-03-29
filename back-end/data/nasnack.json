@@ -1,0 +1,123 @@
+
+[
+    {
+        "id" : "1",
+        "name" : "Cheetos",
+        "description" : "Cheetos is a brand of cheese-flavored puffed cornmeal snacks made by Frito-Lay, a subsidiary of PepsiCo.Cheetos were invented in 1948 by Fritos creator Charles Elmer Doolin, who cooked early test batches in the Frito Company's Dallas, Texas-based research and development kitchen.",
+        "image":"https://www.fritolay.com/images/default-source/blue-bag-image/cheetos-puffs-cheese.png?sfvrsn=6a51573a_2",
+        "country":"United States",
+        "price":"$2.00",
+        "flavour":"Original",
+        "comments": [
+    
+        ]
+    },
+    {
+        "id" : "2",
+        "name" : "Lay's Classic",
+        "description" : "Lay's is the name of a brand for a number of potato chip varieties, as well as the name of the company that founded the chip brand in the U.S. in 1932. It has also been called Frito-Lay with Fritos. Lay's has been owned by PepsiCo through Frito-Lay since 1965.",
+        "image":"https://images-na.ssl-images-amazon.com/images/I/91eYwmmel5L._SL1500_.jpg ",
+        "country":"United States",
+        "price":"$3.00",
+        "flavour":"Original",
+        "comments": [
+    
+        ]
+    },
+    {
+        "id" : "3",
+        "name" : "Combos",
+        "description" : "Combos, officially called Combos Stuffed Snacks, are cylindrical tubes of cracker, pretzel, or tortilla, available with various fillings.",
+        "image":"https://images-na.ssl-images-amazon.com/images/I/71YxMQek4%2BL._SL1000_.jpg",
+        "country":"United States",
+        "price":"$3.50",
+        "flavour":"Cheese",
+        "comments": [
+    
+        ]
+    },
+    {
+        "id" : "4",
+        "name" : "Jos Louis",
+        "description" : "Jos Louis is a plastic-wrapped confection consisting of two red velvet cake rounds with a cream filling within a milk chocolate shell. It resembles a chocolate version of the May West dessert. It was created in 1932, and named after two of the Vachon sons, Joseph and Louis ",
+        "image":"https://images-na.ssl-images-amazon.com/images/I/81ZcqE9vXHL._SX679_.jpg",
+        "country":"Canada",
+        "price":"$3.20",
+        "flavour":"Chocolate",
+        "comments": [
+    
+        ]
+    },
+      {
+        "id" : "5",
+        "name" : "Coffee Crisp",
+        "description" : "Coffee Crisp is a chocolate bar made in Canada. It consists of alternating layers of vanilla wafer and a foamed coffee-flavoured soft candy, covered with a milk chocolate outer layer. It is marketed by Nestlé.",
+        "image":"https://images-na.ssl-images-amazon.com/images/I/611a-Muo86L._SX679_.jpg",
+        "country":"Canada",
+        "price":"$1.00",
+        "flavour":"Coffee",
+        "comments": [
+    
+        ]
+    },
+      {
+        "id" : "6",
+        "name" : "Duvalín",
+        "description" : "Duvalín is a sweet of the Ricolino brand , which belongs to Grupo Bimbo de México. The spreadable candy is made up of skim milk and vanilla flavor. The main flavors are hazelnut / vanilla, hazelnut / strawberry and strawberry / vanilla.",
+        "image":"https://media1.popsugar-assets.com/files/thumbor/Pwg9jXMq1bsnmlk0HeqxKb6zF54/fit-in/1024x1024/filters:format_auto-!!-:strip_icc-!!-/2016/05/03/820/n/37139775/21967f80321d4d6b_candyduvalin/i/Duval%C3%ADn.jpg",
+        "country":"Mexico",
+        "price":"$7.70 per box",
+        "flavour":"N/A",
+        "comments": [
+    
+        ]
+    },  
+    {
+        "id" : "7",
+        "name" : "Pulparindo",
+        "description" : "Pulparindo is the trade name of a Mexican candy produced by de la Rosa. The candy is made from the pulp of the tamarind fruit, and is flavored with sugar, salt, and chili peppers, making it simultaneously tart, sweet, salty, and spicy.",
+        "image":"https://cdn1.bigcommerce.com/server2500/k2eyh8/products/131/images/876/Mexican_Candy_De_la_Rosa_Pulparindo__75475.1429473285.1280.1280.jpg?c=2",
+        "country":"Mexico",
+        "price":"$5.98",
+        "flavour":"Hot & Salty",
+        "comments": [
+    
+        ]
+    },  
+    {
+        "id" : "8",
+        "name" : "Cheez-It",
+        "description" : "Cheez-It is a cheese cracker manufactured by the Kellogg Company through its Sunshine Biscuits division. Approximately 26 by 24 millimetres (1.0 by 0.94 in), the almost square crackers are made with wheat flour, vegetable oil, sharp cheddar cheese, salt, and spices.",
+        "image":"https://images-na.ssl-images-amazon.com/images/I/813ydEtoa9L._SY355_.jpg",
+        "country":"United States",
+        "price":"$4.54",
+        "flavour":"Original",
+        "comments": [
+    
+        ]
+    },  
+    {
+        "id" : "9",
+        "name" : "Oreo",
+        "description" : "Oreo is a brand of cookie usually consisting of two chocolate wafers with a sweet crème filling. Introduced in 1912, Oreo is the bestselling cookie in the United States.",
+        "image":"https://target.scene7.com/is/image/Target/GUEST_8e46a893-7935-46b2-8728-4c301af687ba?wid=488&hei=488&fmt=pjpeg",
+        "country":"United States",
+        "price":"$5.00 per box",
+        "flavour":"Original",
+        "comments": [
+    
+        ]
+    },  
+    {
+        "id" : "10",
+        "name" : "Maple Leaf Cream Cookies",
+        "description" : "Maple leaf cream cookies are a Canadian sandwich cookies. The cream filling is maple-flavored, and may contain real maple syrup. The cookies are shaped like a maple leaf, a national symbol of Canada.",
+        "image":"https://alchetron.com/cdn/maple-leaf-cream-cookies-29eb1609-87de-4f3d-acf7-70e66a78457-resize-750.jpeg",
+        "country":"Canada",
+        "price":"$2.97",
+        "flavour":"Maple",
+        "comments": [
+    
+        ]
+    }
+]

@@ -1,0 +1,123 @@
+
+[
+    {
+        "id" : "1",
+        "name" : "Vegemite",
+        "description" : "Introduced in 1923 by Fred Walker & Co and currently owned by Kraft, Vegemite is another staple Australian treat. Reported by many to be salty with a taste of beef bullion and great for spreads or dips (toast or cookies), Vegemite is a dark brown food paste made from yeast extract along with various vegetable and space additives. Vegemite's popularity began when Vegemite was officially endorsed by the British Medical Association as a rich source of Vitamin B (Vegemite is known to be one of the richest sources of B vitamins thiamin, riboflavin, niacin, and folic acid.) By the late 1940s Vegemite was used in 9 out of 10 Australian homes.",
+        "image":"https://images-na.ssl-images-amazon.com/images/I/61h5I7-3xNL._SL1200_.jpg",
+        "country":"Australia",
+        "price":"$8.80",
+        "flavour":"N/A",
+        "comments": [
+    
+        ]
+    },
+    {
+        "id" : "2",
+        "name" : "Anzac Biscuits By Unibic",
+        "description" : "Anzac Biscuits, named after the Australian and New Zealand Army Corps (ANZAC), have a rich history with the Australian and New Zealand army going back to World War 1. Anzacs Biscuits were also known as 'Soldier's Biscuits' and were often sold at fundraisers to raise money for troops in war, and to this day are often used as a fundraising item for the Royal New Zealand Returned Services' Association (RSA) and the Returned and Services League of Australia (RSL). Known to be a sweet biscuit, is a healthy treat made of all natural ingredients, contains no vegetable fats (including palm oil), colours, preservatives.",
+        "image":"https://shop.coles.com.au/wcsstore/Coles-CAS/images/7/9/7/7977230.jpg",
+        "country":"Australia",
+        "price":"$40.00",
+        "flavour":"Original",
+        "comments": [
+    
+        ]
+    },
+    {
+        "id" : "3",
+        "name" : "Chocolate Fish By Cadbury",
+        "description" : "Chocolate fish fish-shaped chocolate pieces, made up of pink (or white) marshmallows covered in a thin layer of milk chocolate. They're about 5 to 8 inches long. Several companies make the chocolate fish, but the most well known producer is Cadbury. In Kiwi culture, the chocolate fish is a common reward for a small job done well.",
+        "image":"https://images-na.ssl-images-amazon.com/images/I/5151csBIoQL._SY355_.jpg",
+        "country":"New Zealand",
+        "price":"$4.65",
+        "flavour":"Chocolate",
+        "comments": [
+    
+        ]
+    },
+    {
+        "id" : "4",
+        "name" : "Pineapple Lumps",
+        "description" : "Pineapple Lumps are a flavoured chocolate-covered confectionery with a soft, chewy pineapple-flavoured middle from New Zealand. They are often identified as Kiwiana. The semi-brittle shell of chocolate conceals a chewy, soft pineapple flavoured centre.",
+        "image":"https://images-na.ssl-images-amazon.com/images/I/81UDg%2BN11YL._SY550_.jpg",
+        "country":"New Zealand",
+        "price":"$8.91",
+        "flavour":"Fruity",
+        "comments": [
+    
+        ]
+    },
+      {
+        "id" : "5",
+        "name" : "Twisties",
+        "description" : "Twisties are a kind of cheese curl, corn-based treat popular in Australia and parts of Asia. It was initially introduced in 1950 by the General Foods Corporation, but the brand is currently owned by Frito-Lay. Twisties are produced by feeding a mix of milled corn, rice, wheat and water into a machine known as a rotary head or random extruder. This machine cooks the mix at high temperature and pressure whilst forming the pieces. This process results in the characteristic Twisties shape with the knobbly surface and squiggly shape. After forming, the pieces are oven baked before being flavoured with a coating of seasoning and vegetable oil.",
+        "image":"https://s3-ap-southeast-1.amazonaws.com/media.redmart.com/newmedia/460x/i/m/7622210270191_0022_1509950512294.jpg",
+        "country":"Australia",
+        "price":"$4.25",
+        "flavour":"Roasted Chicken",
+        "comments": [
+    
+        ]
+    },
+      {
+        "id" : "6",
+        "name" : "Cheezels",
+        "description" : "Cheezels are a popular Australian snack food first created 1971. Made from corn and rice, they are a crispy, puffy rings with a strong (and savory) cheddar cheese flavor, and similar in texture to an American Cheese Puff or Cheetos.",
+        "image":"https://images-na.ssl-images-amazon.com/images/I/413aKLAFf%2BL.jpg",
+        "country":"Australia",
+        "price":"$3.74",
+        "flavour":"Original Cheese",
+        "comments": [
+    
+        ]
+    },  
+    {
+        "id" : "7",
+        "name" : "Hokey Pokey",
+        "description" : "Hokey pokey is a flavour of ice cream in New Zealand, consisting of plain vanilla ice cream with small, solid lumps of honeycomb toffee. Hokey pokey is the New Zealand term for honeycomb toffee.The original recipe until around 1980 consisted of solid toffee, but in a marketing change Tip-Top decided to use small balls of honeycomb toffee instead.",
+        "image":"https://shop.countdown.co.nz/Content/ProductImages/zoom/9414742002047.jpg/Countdown-Ice-Cream-Hokey-Pokey.jpg",
+        "country":"Australia",
+        "price":"$5.90",
+        "flavour":"Caramel",
+        "comments": [
+    
+        ]
+    },  
+    {
+        "id" : "8",
+        "name" : "Cherry Ripe",
+        "description" : "Cherry Ripe is a brand of chocolate bar manufactured by Cadbury Australia. Introduced by the Australian confectioner MacRobertson's in 1924, it is now Australia's oldest chocolate bar and is one of the top chocolate bar brands sold in the country. It consists of fruit cherries and coconut coated with dark chocolate.",
+        "image":"https://shop.coles.com.au/wcsstore/Coles-CAS/images/1/3/6/136534.jpg",
+        "country":"Australia",
+        "price":"$$23.19 for 6 packs",
+        "flavour":"Cherry",
+        "comments": [
+    
+        ]
+    },  
+    {
+        "id" : "9",
+        "name" : "Minties",
+        "description" : "Minties is a brand of confectionery originating in Australia and manufactured in both Australia and New Zealand for their respective markets. They are a hard, white and chewy, rectangular mint-flavoured lolly, which on chewing become so sticky that they are notorious for causing fillings to come out. They were originally packaged in 5lb bulk tins or 3oz cardboard boxes, but now come in packs ranging from 150g - 1 kg. Minties are wrapped in waxed paper with a cartoon underneath the logo with the common caption 'It's moments like these you need Minties'.",
+        "image":"https://www.bigw.com.au/medias/sys_master/images/images/h36/hdf/12709152129054.jpg",
+        "country":"Australia",
+        "price":"$6.00 per bag",
+        "flavour":"Mint",
+        "comments": [
+    
+        ]
+    },  
+    {
+        "id" : "10",
+        "name" : "Lemon & Paeroa",
+        "description" : "Lemon & Paeroa, also known as L&P, is a sweet soft drink manufactured in New Zealand. Created in 1907, it was traditionally made by combining lemon juice with carbonated mineral water from the town of Paeroa, but is now owned and manufactured by multi-national Coca-Cola.",
+        "image":"https://kiwicornerdairy.com/pub/media/catalog/product/cache/c687aa7517cf01e65c009f6943c2b1e9/l/-/l-p-soft-drink-lemon-paeroa.jpg",
+        "country":"New Zealand",
+        "price":"$2.29",
+        "flavour":"Lemon",
+        "comments": [
+    
+        ]  
+    }
+]
