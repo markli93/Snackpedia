@@ -2,7 +2,7 @@ const express = require('express');
 const bodyParser = require('body-parser');
 const cors = require('cors');
 const PORT = 8080;
-const app = express();
+const app = express();  
 
 app.use(express.static('asiansnack'));
 app.use(express.static('africansnack'));
