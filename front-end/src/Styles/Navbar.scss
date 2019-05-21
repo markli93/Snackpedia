@@ -1,4 +1,6 @@
 .logo--container{
+    height: 100%;
+    width: 100%;
     display: flex;
     justify-content: center;
     background:linear-gradient(270deg, rgba(219,228,238,1) 25%, rgba(125,190,190,1) 72%);
@@ -10,5 +12,9 @@
            width: 8rem;
            height: 8rem;
        }
+       @media(min-width: 320px){
+        width: 8rem;
+        height: 8rem;
+    }
     }
 }

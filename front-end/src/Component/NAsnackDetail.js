@@ -81,7 +81,7 @@ export default class NAsnackDetail extends React.Component{
                         bgColor="#FFFFFF"
                         fgColor="#000000"
                         level="Q"
-                        style={{ width: 300 } }
+           
                         value= {`https://www.amazon.ca/s?k=${item.name}`}
                     />
                     </div>
